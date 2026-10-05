@@ -1,1 +1,2 @@
 # listestu
+Hice una lista simplemente enlazada para guardar los datos de los estudiantes. Cada estudiante tiene CI, nombre, apellido, sexo, año, si es militante y si es becado, además del mes en que cumple años. La lista tiene un método para agregar estudiantes y tres métodos más: uno que muestra los nombres de los que cumplen años en un mes dado, otro que muestra los militantes ordenados por año de menor a mayor, y otro que devuelve la cantidad de becados.
